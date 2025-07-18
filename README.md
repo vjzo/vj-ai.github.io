@@ -1,6 +1,6 @@
-# vjzo.github.io — Personal AI Portfolio
+# vizo-ai.github.io — Projects Portfolio
 
-🎯 **Live Site:** [https://vjzo.github.io](https://vjzo.github.io)
+🎯 **Live Site:** [https://vizo-ai.github.io/](https://vizo-ai.github.io/)
 
 This is the personal AI resume and portfolio website of **Vijay**, an experienced AI & Data Scientist with 8+ years of industry expertise in building intelligent, production-grade machine learning systems.
 
@@ -38,17 +38,17 @@ This opens a live-preview server. Edit content in `src/pug/index.pug`, save, and
 
 ## 🛠️ Building and Deploying
 
-To publish updates to `vjzo.github.io`:
+To publish updates to `vizo-ai.github.io`:
 
 ```bash
 # 1. Build the project (from startbootstrap-resume directory)
 npm run build
 
 # 2. Copy the generated site to this repo
-cp -r dist/* ../vjzo.github.io/
+cp -r dist/* ../vizo-ai.github.io/
 
 # 3. Push changes
-cd ../vjzo.github.io
+cd ../vizo-ai.github.io
 git add .
 git commit -m "Update site"
 git push origin main
